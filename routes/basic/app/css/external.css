@@ -1,0 +1,11 @@
+.highlight {
+  border: 2px dotted red;
+}
+
+.ui.bottom.attached.tab.segment {
+	display:none;
+}
+
+.ui.bottom.attached.tab.segment.active {
+	display:block;
+}
